@@ -1,0 +1,11 @@
+*.pyc
+*.egg-info
+*.egg
+data/
+build/
+*.orig
+.pytest_cache
+.cache
+.python-version
+.idea/
+/venv/
