@@ -9,3 +9,6 @@ build/
 .python-version
 .idea/
 /venv/
+*.sqlite3
+*.ipynb
+*.vscode

@@ -20,7 +20,7 @@ class EndpointTests(TestCase):
             "capital-gain": 0,
             "capital-loss": 0,
             "hours-per-week": 68,
-            "native-country": 37
+            "native-country": "United-States"
         }
         classifier_url = "/api/v1/income_classifier/predict"
         response = client.post(classifier_url, input_data, format='json')
