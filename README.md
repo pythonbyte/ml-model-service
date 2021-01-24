@@ -15,4 +15,4 @@ This projects uses
 
 In order to run the project use Docker to intialize it, just use it the following command to run:
 
-```docker-compose up --build```
+```docker-compose up```
